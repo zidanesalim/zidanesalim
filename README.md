@@ -6,7 +6,7 @@
 
 
 ##### Currently learning:
-<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Luau-000080?style=flat-square&logo=luau&logoColor=white"/>
+<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
  
 
 ## Softwares & Tools
