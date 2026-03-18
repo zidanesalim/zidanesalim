@@ -7,7 +7,7 @@
 
 
 ##### Currently learning:
-<img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-3ba8f2?style=flat-square&logo=react&logoColor=white"/>
  
 
 ## Softwares & Tools
