@@ -17,4 +17,5 @@ Currently learning:
 ## Stats
 
 ![](https://streak-stats.demolab.com/?user=zidanesalim&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats-azure-alpha-66.vercel.app/api/top-langs/?username=zidanesalim&theme=dark&hide_border=true&layout=compact)
