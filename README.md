@@ -16,4 +16,5 @@ Currently learning:
 
 ## Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=zidanesalim&theme=dark&hide_border=true)
+![](https://streak-stats.demolab.com/?user=zidanesalim&theme=dark&hide_border=true)
+![](https://github-readme-stats-azure-alpha-66.vercel.app/api/top-langs/?username=zidanesalim&theme=dark&hide_border=true&layout=compact)
