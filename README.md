@@ -23,7 +23,7 @@ CS student at La Rochelle Université. Passionate about full-stack development a
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="images/NimbusIcon.png" width="120"/><br/>
+      <img src="images/NimbusIcon.png" width="200"/><br/>
       <strong>Nimbus</strong><br/>
     </td>
     <td valign="middle">A minimal weather dashboard to check forecasts and current conditions for any city using live weather data.</td>
@@ -35,7 +35,7 @@ CS student at La Rochelle Université. Passionate about full-stack development a
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="images/CurrencyConverterIcon.png" width="120"/><br/>
+      <img src="images/CurrencyConverterIcon.png" width="200"/><br/>
       <strong>Currency Converter</strong><br/>
     </td>
     <td valign="middle">A minimal tool for rapid conversion among major currencies using live exchange rates.</td>
