@@ -6,7 +6,7 @@
 
 ## About Me
 
-CS student at La Rochelle Université. Passionate about full-stack development and 3D Modeling.
+CS student at La Rochelle University. Passionate about full-stack development and 3D Modeling.
 
 - Currently learning Spring Boot & cloud deployment
 - Interested in machine learning & automation
