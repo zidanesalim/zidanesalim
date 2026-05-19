@@ -4,6 +4,21 @@
   </a>
 </div>
 
+## About Me
+
+CS student at La Rochelle Université. Passionate about full-stack development and 3D Modeling.
+
+- Currently learning Spring Boot & cloud deployment
+- Interested in machine learning & automation
+
+
+## Featured Projects
+
+**[Nimbus Dashboard](https://github.com/zidanesalim/nimbus-dashboard)**: A minimal weather dashboard to check forecasts and current conditions for any city using live weather data.
+
+**[Currency Converter](https://github.com/zidanesalim/currency-converter)**: A minimal tool for rapid conversion among major currencies using live exchange rates.
+
+
 ## Technical Skills
 
 <table border="0" cellspacing="0" cellpadding="6">
