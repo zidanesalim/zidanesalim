@@ -23,7 +23,8 @@ CS student at La Rochelle Université. Passionate about full-stack development a
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="images/NimbusIcon.png" width="160"/><br/>
+      <img src="images/NimbusIcon.png" width="500"/><br/>
+      <strong>Nimbus</strong><br/>
     </td>
     <td valign="middle">A minimal weather dashboard to check forecasts and current conditions for any city using live weather data.</td>
     <td valign="middle">Built to practice React, Vite and real-world API integration with a clean UI.</td>
@@ -34,7 +35,8 @@ CS student at La Rochelle Université. Passionate about full-stack development a
   </tr>
   <tr>
     <td align="center" valign="middle">
-      <img src="images/CurrencyConverterIcon.png" width="160"/><br/>
+      <img src="images/CurrencyConverterIcon.png" width="500"/><br/>
+      <strong>Currency Converter</strong><br/>
     </td>
     <td valign="middle">A minimal tool for rapid conversion among major currencies using live exchange rates.</td>
     <td valign="middle">Built to explore real-time data fetching and state management in React without authentication overhead.</td>
