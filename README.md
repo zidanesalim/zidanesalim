@@ -6,29 +6,14 @@
 
 ## Technical Skills
 
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB) ![Vue.js](https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-**Backend**
-
-![PHP](https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4) ![Symfony](https://img.shields.io/badge/Symfony-0f172a?style=for-the-badge&logo=symfony&logoColor=white) ![Java](https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248) ![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438)
-
-**Systems**
-
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C) ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB) ![Bash](https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-**Cloud & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2CA5E0) ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624) ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-0f172a?style=for-the-badge&logo=aws&logoColor=FF9900) ![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032) ![Vercel](https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white)
-
-**Tools**
-
-![Postman](https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Figma](https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E)
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr><td align="center" valign="middle"><h4>Frontend</h4></td><td valign="middle"><img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/></td></tr>
+  <tr><td align="center" valign="middle"><h4>Backend</h4></td><td valign="middle"><img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4"/> <img src="https://img.shields.io/badge/Symfony-0f172a?style=for-the-badge&logo=symfony&logoColor=white"/> <img src="https://img.shields.io/badge/Java-0f172a?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/> <img src="https://img.shields.io/badge/Spring_Boot-0f172a?style=for-the-badge&logo=springboot&logoColor=6DB33F"/></td></tr>
+  <tr><td align="center" valign="middle"><h4>Databases</h4></td><td valign="middle"><img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438"/></td></tr>
+  <tr><td align="center" valign="middle"><h4>Systems</h4></td><td valign="middle"><img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/Bash-0f172a?style=for-the-badge&logo=gnubash&logoColor=4EAA25"/></td></tr>
+  <tr><td align="center" valign="middle"><h4>Cloud & DevOps</h4></td><td valign="middle"><img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2CA5E0"/> <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://custom-icon-badges.demolab.com/badge/AWS-0f172a?style=for-the-badge&logo=aws&logoColor=FF9900"/> <img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Vercel-0f172a?style=for-the-badge&logo=vercel&logoColor=white"/></td></tr>
+  <tr><td align="center" valign="middle"><h4>Tools</h4></td><td valign="middle"><img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/> <img src="https://img.shields.io/badge/Figma-0f172a?style=for-the-badge&logo=figma&logoColor=F24E1E"/></td></tr>
+</table>
 
 
 ## Socials
